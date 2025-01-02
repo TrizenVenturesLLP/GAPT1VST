@@ -2,29 +2,36 @@ This project consists of two main parts:
 - Frontend: React application 
 - Backend: Flask API server
 
-### Frontend Setup
+Frontend Setup
 
-### Step 1: Clone the repository using the project's Git URL.
+1.Clone the repository using the project's Git URL.
+```sh
 git clone <YOUR_GIT_URL>
+```
 
-### Step 2: Navigate to the project directory.
+2.Navigate to the project directory.
+```sh
 cd <YOUR_PROJECT_NAME>
+```
 
-### Step 3: Install the necessary dependencies.
+3.Install the necessary dependencies.
+```sh
 npm i
+```
 
-### Step 4: Start the development server with auto-reloading and an instant preview.
+4.Start the development server with auto-reloading and an instant preview.
+```sh
 npm run dev
 ```
 
-## Backend Setup
+Backend Setup
 
-### Prerequisites
+- Prerequisites
 
 - Python 3.8 or higher
 - pip (Python package manager)
 
-### Setup Instructions
+Setup Instructions
 
 1. Navigate to the backend directory:
 ```sh
@@ -41,10 +48,8 @@ python -m venv venv
 ```sh
 venv\Scripts\activate
 ```
-4. Add the model folder from the drive link:
-```sh
 
-```
+4. Add the model folder from the drive link to a folder mbart_model
 
 5. Install dependencies:
 ```sh

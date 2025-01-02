@@ -1,3 +1,6 @@
+### YouTube Video Summarizer
+```
+
 This project consists of two main parts:
 - Frontend: React application 
 - Backend: Flask API server

@@ -41,13 +41,17 @@ python -m venv venv
 ```sh
 venv\Scripts\activate
 ```
+4. Add the model folder from the drive link:
+```sh
 
-4. Install dependencies:
+```
+
+5. Install dependencies:
 ```sh
 pip install -r requirements.txt
 ```
 
-5. Start the Flask server:
+6. Start the Flask server:
 ```sh
 python app.py
 ```
